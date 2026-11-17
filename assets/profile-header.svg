@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230">
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".055" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" x2="1">
+      <stop offset="0" stop-color="#a3b18a" stop-opacity=".95"/>
+      <stop offset="1" stop-color="#a3b18a" stop-opacity=".08"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="230" rx="16" fill="#171b20"/>
+  <rect width="1000" height="230" rx="16" fill="url(#grid)"/>
+  <circle cx="850" cy="38" r="145" fill="#a3b18a" opacity=".055"/>
+  <circle cx="850" cy="38" r="105" fill="none" stroke="#a3b18a" stroke-opacity=".16"/>
+  <path d="M52 177H948" stroke="url(#fade)" stroke-width="2"/>
+  <text x="58" y="91" fill="#a3b18a" font-family="Arial, sans-serif" font-size="17" letter-spacing="4">DEVELOPER  /  ANG626</text>
+  <text x="55" y="145" fill="#f1f3f4" font-family="Arial, sans-serif" font-size="42" font-weight="600">Build. Learn. Improve.</text>
+  <text x="60" y="204" fill="#aeb7bf" font-family="Arial, sans-serif" font-size="15" letter-spacing="1.5">JAVA  ·  SPRING BOOT  ·  VUE</text>
+  <text x="900" y="132" text-anchor="middle" fill="#a3b18a" font-family="Arial, sans-serif" font-size="52" font-weight="700">A.</text>
+</svg>
