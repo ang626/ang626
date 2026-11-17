@@ -1,106 +1,131 @@
-<!-- profile -->
+<!-- ang626 GitHub profile -->
 <div align="center">
 
-<img src="./assets/profile-header.svg" width="100%" alt="ANG626 | Backend Developer" />
+<img src="./assets/profile-header.svg" width="100%" alt="Hello! I'm 이태환 - Developer Profile" />
 
 <br/>
 
-<p>
-  <a href="https://ang626.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-1F2927?style=for-the-badge&logo=githubpages&logoColor=B7C9A8" /></a>
-  <a href="https://github.com/ang626"><img src="https://img.shields.io/badge/GITHUB-1F2927?style=for-the-badge&logo=github&logoColor=E6E8E5" /></a>
-</p>
+<a href="https://ang626.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-202923?style=for-the-badge&logo=githubpages&logoColor=B7C9A8" /></a>
+&nbsp;
+<a href="https://github.com/ang626"><img src="https://img.shields.io/badge/GITHUB-202923?style=for-the-badge&logo=github&logoColor=E6E8E5" /></a>
 
 </div>
 
----
+<br/>
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="48%" valign="top">
 
-### ABOUT
+### 👋 ABOUT ME
 
-Hello! I'm 이태환!
-Java와 Spring 기반의 백엔드 개발을 중심으로 학습하고 있습니다.
+안녕하세요, **이태환**입니다.
 
-기능을 구현하는 데서 그치지 않고, 데이터 흐름과 사용자 경험까지 고민하며 프론트엔드와 백엔드를 연결한 프로젝트를 만들고 있습니다.
-
-</td>
-<td width="42%" valign="top">
-
-### FOCUS
-
-- Backend Development
-- REST API
-- Database Design
-- Frontend Integration
+Java와 Spring Boot를 중심으로 웹 서비스를 개발하고 있습니다. 기능 구현뿐 아니라 데이터 흐름과 사용자의 입장에서 생각하며, 프론트엔드와 백엔드를 연결하는 경험을 쌓고 있습니다.
 
 </td>
-</tr>
-</table>
+<td width="52%" valign="top">
 
-### TECH STACK
+### ⚙️ TECH STACK
 
 <div align="center">
 
-**BACKEND**
-
+**BACKEND**  
 <img src="https://skillicons.dev/icons?i=java,spring" />
 
-<br/>
-
-**FRONTEND**
-
+**FRONTEND**  
 <img src="https://skillicons.dev/icons?i=vue,js,html,css,vite" />
 
-<br/>
-
-**DATABASE & TOOLS**
-
-<img src="https://skillicons.dev/icons?i=mysql,mariadb,git,github,idea" />
+**DATABASE · TOOLS**  
+<img src="https://skillicons.dev/icons?i=mariadb,mysql,git,github,idea" />
 
 </div>
+</td>
+</tr>
+</table>
 
 ---
 
-### SELECTED PROJECTS
+### ▦ SELECTED PROJECTS
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-**01 · VEHICLE MANAGEMENT**
+<div align="center">
 
-### 차량 관리 시스템
+### 🚘 차량 관리
 
-차량 정보를 등록하고 관리하는 웹 프로젝트
+**VEHICLE MANAGEMENT**
 
-<img src="https://img.shields.io/badge/Java_17-29332F?style=flat-square&logo=openjdk&logoColor=B7C9A8" />
-<img src="https://img.shields.io/badge/Spring_Boot-29332F?style=flat-square&logo=springboot&logoColor=B7C9A8" />
-<img src="https://img.shields.io/badge/Vue_3-29332F?style=flat-square&logo=vuedotjs&logoColor=B7C9A8" />
-<img src="https://img.shields.io/badge/MariaDB-29332F?style=flat-square&logo=mariadb&logoColor=B7C9A8" />
+</div>
 
-<br/><br/>
+차량 정보를 등록하고 효율적으로 관리하는 웹 애플리케이션
 
-[VIEW PROJECT →](https://github.com/ang626/car-project)
+<br/>
+
+`Java 17` · `Spring Boot`  
+`Vue 3` · `MariaDB`
+
+<br/>
+
+<div align="center">
+
+[VIEW PROJECT ↗](https://github.com/ang626/car-project)
+
+</div>
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-**02 · MUSIC PRACTICE**
+<div align="center">
 
-### 악기 연습 관리
+### 🎵 악기 연습
 
-연습 기록과 데이터를 관리하는 웹 프로젝트
+**MUSIC PRACTICE**
 
-<img src="https://img.shields.io/badge/Java_17-29332F?style=flat-square&logo=openjdk&logoColor=B7C9A8" />
-<img src="https://img.shields.io/badge/Spring_Boot-29332F?style=flat-square&logo=springboot&logoColor=B7C9A8" />
-<img src="https://img.shields.io/badge/Vue_3-29332F?style=flat-square&logo=vuedotjs&logoColor=B7C9A8" />
-<img src="https://img.shields.io/badge/MySQL-29332F?style=flat-square&logo=mysql&logoColor=B7C9A8" />
+</div>
 
-<br/><br/>
+악기 연습 기록과 데이터를 관리하는 웹 애플리케이션
 
-[VIEW PROJECT →](https://github.com/ang626/musicpractice-project)
+<br/>
+
+`Java 17` · `Spring Boot`  
+`Vue 3` · `MySQL`
+
+<br/>
+
+<div align="center">
+
+[VIEW PROJECT ↗](https://github.com/ang626/musicpractice-project)
+
+</div>
+
+</td>
+<td width="33%" valign="top">
+
+<div align="center">
+
+### 💻 Portfolio
+
+**PERSONAL WEBSITE**
+
+</div>
+
+개발 과정과 프로젝트를 정리한 개인 포트폴리오 사이트
+
+<br/>
+
+`HTML` · `CSS`  
+`JavaScript`
+
+<br/>
+
+<div align="center">
+
+[VISIT WEBSITE ↗](https://ang626.github.io)
+
+</div>
 
 </td>
 </tr>
@@ -108,22 +133,40 @@ Java와 Spring 기반의 백엔드 개발을 중심으로 학습하고 있습니
 
 ---
 
-### GITHUB ACTIVITY
+<table>
+<tr>
+<td width="62%" valign="top">
+
+### ▥ CONTRIBUTION GRAPH
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ang626&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B7C9A8&icon_color=B7C9A8&text_color=D8DED8&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ang626&layout=compact&hide_border=true&bg_color=0D1117&title_color=B7C9A8&text_color=D8DED8" />
-
-<br/>
-
-<img width="96%" src="https://streak-stats.demolab.com?user=ang626&hide_border=true&background=0D1117&ring=B7C9A8&fire=B7C9A8&currStreakLabel=B7C9A8&sideLabels=D8DED8&currStreakNum=D8DED8&sideNums=D8DED8&dates=87918A" />
+<img src="https://ghchart.rshah.org/B7C9A8/ang626" width="100%" alt="ang626 contribution graph" />
 
 </div>
 
----
+</td>
+<td width="38%" valign="top">
+
+### ◈ GITHUB STATS
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ang626&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B7C9A8&icon_color=B7C9A8&text_color=D8DED8&rank_icon=github" width="100%" />
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ang626&layout=compact&hide_border=true&bg_color=0D1117&title_color=B7C9A8&text_color=D8DED8" height="150" />
+
+<br/>
+
+---
 
 **BUILD · LEARN · IMPROVE**
 
