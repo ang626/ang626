@@ -1,20 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330">
   <defs>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".055" stroke-width="1"/>
-    </pattern>
-    <linearGradient id="fade" x1="0" x2="1">
-      <stop offset="0" stop-color="#a3b18a" stop-opacity=".95"/>
-      <stop offset="1" stop-color="#a3b18a" stop-opacity=".08"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111714"/>
+      <stop offset="1" stop-color="#202923"/>
     </linearGradient>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0" stop-color="#B7C9A8" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#B7C9A8" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#DCE6D8" stroke-opacity=".045"/>
+    </pattern>
   </defs>
-  <rect width="1000" height="230" rx="16" fill="#171b20"/>
-  <rect width="1000" height="230" rx="16" fill="url(#grid)"/>
-  <circle cx="850" cy="38" r="145" fill="#a3b18a" opacity=".055"/>
-  <circle cx="850" cy="38" r="105" fill="none" stroke="#a3b18a" stroke-opacity=".16"/>
-  <path d="M52 177H948" stroke="url(#fade)" stroke-width="2"/>
-  <text x="58" y="91" fill="#a3b18a" font-family="Arial, sans-serif" font-size="17" letter-spacing="4">DEVELOPER  /  ANG626</text>
-  <text x="55" y="145" fill="#f1f3f4" font-family="Arial, sans-serif" font-size="42" font-weight="600">Build. Learn. Improve.</text>
-  <text x="60" y="204" fill="#aeb7bf" font-family="Arial, sans-serif" font-size="15" letter-spacing="1.5">JAVA  ·  SPRING BOOT  ·  VUE</text>
-  <text x="900" y="132" text-anchor="middle" fill="#a3b18a" font-family="Arial, sans-serif" font-size="52" font-weight="700">A.</text>
+  <rect width="1200" height="330" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="330" rx="18" fill="url(#grid)"/>
+  <circle cx="1010" cy="150" r="210" fill="#B7C9A8" opacity=".035"/>
+  <circle cx="1010" cy="150" r="150" fill="none" stroke="#B7C9A8" stroke-opacity=".14"/>
+  <circle cx="1010" cy="150" r="105" fill="none" stroke="#B7C9A8" stroke-opacity=".10"/>
+  <path d="M64 258H1135" stroke="url(#line)" stroke-width="2"/>
+  <text x="68" y="92" fill="#B7C9A8" font-family="Arial,sans-serif" font-size="16" letter-spacing="5">DEVELOPER PROFILE  /  ANG626</text>
+  <text x="64" y="165" fill="#F0F2ED" font-family="Arial,sans-serif" font-size="54" font-weight="700">Build with purpose.</text>
+  <text x="68" y="210" fill="#B8C2B8" font-family="Arial,sans-serif" font-size="19" letter-spacing="2">JAVA  ·  SPRING BOOT  ·  VUE</text>
+  <text x="1010" y="166" text-anchor="middle" fill="#B7C9A8" font-family="Arial,sans-serif" font-size="78" font-weight="700">A.</text>
+  <text x="68" y="298" fill="#89968C" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">BACKEND DEVELOPMENT  /  CONTINUOUS LEARNING</text>
 </svg>
